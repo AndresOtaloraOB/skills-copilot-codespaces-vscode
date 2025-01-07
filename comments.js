@@ -1,6 +1,4 @@
-// Create a web server that outputs a "Hello World" message in response to any request
-// The server will handle incoming HTTP requests and respond with a simple message
-// The server is configured to listen on port 3000
+// Create web server
 
 const http = require('http'); // Import the HTTP module to create the server
 
